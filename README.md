@@ -9,7 +9,9 @@ The Crypto CPA Data application is used to determine arbitrage opportunities for
 Crypto CPA data leverages python 3.7 with the following packages:
 
 pandas:Python library for data analysis and manipulation
+
 Pathlib: Python pathlib module
+
 Matplotlib (%matplotlib): Python library for creating visualizations
 
 ---
