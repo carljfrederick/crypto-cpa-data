@@ -1,6 +1,6 @@
 # Crypto CPA Data
 
-The Crypto CPA Data application is used to determine arbitrage opportunities for Bitcoin on two crypto currency exchanges. Applying the three step approach for financial   data analysis, a financial analyst can analyze the Bitcoin cryptocurrency market using Crypto CPA Data by collecting data, preparing and cleaning data, and performing time series analysis using summary statistics and visualizations for specific a date(s). 
+The Crypto CPA Data application is used to determine arbitrage opportunities for Bitcoin on two crypto currency exchanges. Applying the three step approach for financial   data analysis, a financial analyst can analyze the Bitcoin cryptocurrency market using Crypto CPA Data by collecting data, preparing and cleaning data, and performing time series analysis using summary statistics and visualizations for specific date(s). 
 
 ---
 
